@@ -1,4 +1,4 @@
-# Disk mount on Linux
+# Disk mount
 
 ## 1. 파티션 생성
 ```
