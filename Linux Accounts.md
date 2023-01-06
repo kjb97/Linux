@@ -77,4 +77,7 @@ usermod -L koo
 
 # group 추가
 usermod -G admin koo 
+
+# 특정 서비스에 대한 권한 획득 예시 ( docker ) 도커 사용 그룹에 koo 유저 추가
+usermod -G docker koo
 ```
