@@ -17,7 +17,6 @@ network:
       dhcp4: true	
     ens34:		#Static
       addresses: [192.168.40.129/24]
-      gateway4: 192.168.40.1
       nameservers:
               addresses: [8.8.8.8, 8.8.4.4]
   version: 2
